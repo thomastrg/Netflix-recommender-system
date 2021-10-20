@@ -21,4 +21,4 @@ With collaborative filtering, the system is based on past interactions between u
 For example, if user A watches M1, M2, and M3, and user B watches M1, M3, M4, we recommend M1 and M3 to a similar user C. You can see how this looks in the figure below for clearer reference.
 
 ## The dataset
-The dataset is the datset of the Netflix Prize competition 2019.
+The dataset is the dataset of the Netflix Prize competition 2019.
